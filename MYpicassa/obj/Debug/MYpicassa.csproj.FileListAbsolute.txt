@@ -1,0 +1,106 @@
+c:\users\aurangzeb.lodhi\documents\visual studio 2010\Projects\MYpicassa\MYpicassa\obj\Debug\ResolveAssemblyReference.cache
+c:\users\aurangzeb.lodhi\documents\visual studio 2010\Projects\MYpicassa\MYpicassa\obj\Debug\App.g.i.cs
+c:\users\aurangzeb.lodhi\documents\visual studio 2010\Projects\MYpicassa\MYpicassa\obj\Debug\MainPage.g.i.cs
+c:\users\aurangzeb.lodhi\documents\visual studio 2010\Projects\MYpicassa\MYpicassa\obj\Debug\MYpicassa.g.resources
+C:\Users\aurangzeb.lodhi\documents\visual studio 2010\Projects\MYpicassa\MYpicassa\Bin\Debug\ApplicationIcon.png
+C:\Users\aurangzeb.lodhi\documents\visual studio 2010\Projects\MYpicassa\MYpicassa\Bin\Debug\Background.png
+C:\Users\aurangzeb.lodhi\documents\visual studio 2010\Projects\MYpicassa\MYpicassa\Bin\Debug\MYpicassa.dll
+C:\Users\aurangzeb.lodhi\documents\visual studio 2010\Projects\MYpicassa\MYpicassa\Bin\Debug\MYpicassa.pdb
+C:\Users\aurangzeb.lodhi\documents\visual studio 2010\Projects\MYpicassa\MYpicassa\Bin\Debug\PhonePerformance.xml
+C:\Users\aurangzeb.lodhi\documents\visual studio 2010\Projects\MYpicassa\MYpicassa\obj\Debug\MYpicassa.dll
+C:\Users\aurangzeb.lodhi\documents\visual studio 2010\Projects\MYpicassa\MYpicassa\obj\Debug\MYpicassa.pdb
+C:\Users\aurangzeb.lodhi\documents\visual studio 2010\Projects\MYpicassa\MYpicassa\Bin\Debug\AppManifest.xaml
+C:\Users\aurangzeb.lodhi\documents\visual studio 2010\Projects\MYpicassa\MYpicassa\Bin\Debug\MYpicassa.xap
+C:\Users\aurangzeb.lodhi\documents\visual studio 2010\Projects\MYpicassa\MYpicassa\obj\Debug\XapCacheFile.xml
+C:\Users\aurangzeb.lodhi\documents\visual studio 2010\Projects\MYpicassa\MYpicassa\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\aurangzeb.lodhi\documents\visual studio 2010\Projects\MYpicassa\MYpicassa\Bin\Debug\SilverlightActivator.dll
+C:\Users\aurangzeb.lodhi\documents\visual studio 2010\Projects\MYpicassa\MYpicassa\Bin\Debug\System.Threading.Tasks.WP71.dll
+C:\Users\aurangzeb.lodhi\documents\visual studio 2010\Projects\MYpicassa\MYpicassa\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\aurangzeb.lodhi\documents\visual studio 2010\Projects\MYpicassa\MYpicassa\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\aurangzeb.lodhi\documents\visual studio 2010\Projects\MYpicassa\MYpicassa\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\aurangzeb.lodhi\documents\visual studio 2010\Projects\MYpicassa\MYpicassa\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\aurangzeb.lodhi\documents\visual studio 2010\Projects\MYpicassa\MYpicassa\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\aurangzeb.lodhi\documents\visual studio 2010\Projects\MYpicassa\MYpicassa\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\aurangzeb.lodhi\documents\visual studio 2010\Projects\MYpicassa\MYpicassa\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\aurangzeb.lodhi\documents\visual studio 2010\Projects\MYpicassa\MYpicassa\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\aurangzeb.lodhi\documents\visual studio 2010\Projects\MYpicassa\MYpicassa\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\aurangzeb.lodhi\documents\visual studio 2010\Projects\MYpicassa\MYpicassa\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\aurangzeb.lodhi\documents\visual studio 2010\Projects\MYpicassa\MYpicassa\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\aurangzeb.lodhi\documents\visual studio 2010\Projects\MYpicassa\MYpicassa\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\aurangzeb.lodhi\documents\visual studio 2010\Projects\MYpicassa\MYpicassa\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\aurangzeb.lodhi\documents\visual studio 2010\Projects\MYpicassa\MYpicassa\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\aurangzeb.lodhi\documents\visual studio 2010\Projects\MYpicassa\MYpicassa\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\aurangzeb.lodhi\documents\visual studio 2010\Projects\MYpicassa\MYpicassa\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\aurangzeb.lodhi\documents\visual studio 2010\Projects\MYpicassa\MYpicassa\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\aurangzeb.lodhi\documents\visual studio 2010\Projects\MYpicassa\MYpicassa\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\aurangzeb.lodhi\documents\visual studio 2010\Projects\MYpicassa\MYpicassa\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\aurangzeb.lodhi\documents\visual studio 2010\Projects\MYpicassa\MYpicassa\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\aurangzeb.lodhi\documents\visual studio 2010\Projects\MYpicassa\MYpicassa\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\aurangzeb.lodhi\documents\visual studio 2010\Projects\MYpicassa\MYpicassa\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\aurangzeb.lodhi\documents\visual studio 2010\Projects\MYpicassa\MYpicassa\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\aurangzeb.lodhi\documents\visual studio 2010\Projects\MYpicassa\MYpicassa\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\aurangzeb.lodhi\documents\visual studio 2010\Projects\MYpicassa\MYpicassa\obj\Debug\AlbumsPage.g.i.cs
+C:\Users\aurangzeb.lodhi\documents\visual studio 2010\Projects\MYpicassa\MYpicassa\obj\Debug\ImagesPage.g.i.cs
+C:\Users\aurangzeb.lodhi\documents\visual studio 2010\Projects\MYpicassa\MYpicassa\obj\Debug\AlbumPage.g.i.cs
+C:\Users\aurangzeb.lodhi\Documents\Visual Studio 2010\Projects\MYpicassa\MYpicassa\Bin\Debug\Images\camera.png
+C:\Users\aurangzeb.lodhi\Documents\Visual Studio 2010\Projects\MYpicassa\MYpicassa\Bin\Debug\Images\delete.png
+C:\Users\aurangzeb.lodhi\Documents\Visual Studio 2010\Projects\MYpicassa\MYpicassa\Bin\Debug\Images\save.png
+C:\Users\aurangzeb.lodhi\documents\visual studio 2010\Projects\MYpicassa\MYpicassa\Bin\Debug\fi-FI\MYpicassa.resources.dll
+C:\Users\aurangzeb.lodhi\documents\visual studio 2010\Projects\MYpicassa\MYpicassa\obj\Debug\MYpicassa.AppResources.resources
+C:\Users\aurangzeb.lodhi\documents\visual studio 2010\Projects\MYpicassa\MYpicassa\obj\Debug\MYpicassa.AppResources.fi-FI.resources
+C:\Users\aurangzeb.lodhi\documents\visual studio 2010\Projects\MYpicassa\MYpicassa\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\aurangzeb.lodhi\documents\visual studio 2010\Projects\MYpicassa\MYpicassa\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\aurangzeb.lodhi\documents\visual studio 2010\Projects\MYpicassa\MYpicassa\obj\Debug\fi-FI\MYpicassa.resources.dll
+C:\Users\aurangzeb.lodhi\Desktop\MYpicassa\MYpicassa\Bin\Debug\ApplicationIcon.png
+C:\Users\aurangzeb.lodhi\Desktop\MYpicassa\MYpicassa\Bin\Debug\Background.png
+C:\Users\aurangzeb.lodhi\Desktop\MYpicassa\MYpicassa\Bin\Debug\Images\camera.png
+C:\Users\aurangzeb.lodhi\Desktop\MYpicassa\MYpicassa\Bin\Debug\Images\delete.png
+C:\Users\aurangzeb.lodhi\Desktop\MYpicassa\MYpicassa\Bin\Debug\Images\save.png
+C:\Users\aurangzeb.lodhi\Desktop\MYpicassa\MYpicassa\Bin\Debug\MYpicassa.dll
+C:\Users\aurangzeb.lodhi\Desktop\MYpicassa\MYpicassa\Bin\Debug\MYpicassa.pdb
+C:\Users\aurangzeb.lodhi\Desktop\MYpicassa\MYpicassa\Bin\Debug\fi-FI\MYpicassa.resources.dll
+C:\Users\aurangzeb.lodhi\Desktop\MYpicassa\MYpicassa\Bin\Debug\AppManifest.xaml
+C:\Users\aurangzeb.lodhi\Desktop\MYpicassa\MYpicassa\Bin\Debug\MYpicassa.xap
+C:\Users\aurangzeb.lodhi\Desktop\MYpicassa\MYpicassa\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\aurangzeb.lodhi\Desktop\MYpicassa\MYpicassa\Bin\Debug\SilverlightActivator.dll
+C:\Users\aurangzeb.lodhi\Desktop\MYpicassa\MYpicassa\Bin\Debug\System.Threading.Tasks.WP71.dll
+C:\Users\aurangzeb.lodhi\Desktop\MYpicassa\MYpicassa\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\aurangzeb.lodhi\Desktop\MYpicassa\MYpicassa\Bin\Debug\PhonePerformance.xml
+C:\Users\aurangzeb.lodhi\Desktop\MYpicassa\MYpicassa\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\aurangzeb.lodhi\Desktop\MYpicassa\MYpicassa\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\aurangzeb.lodhi\Desktop\MYpicassa\MYpicassa\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\aurangzeb.lodhi\Desktop\MYpicassa\MYpicassa\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\aurangzeb.lodhi\Desktop\MYpicassa\MYpicassa\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\aurangzeb.lodhi\Desktop\MYpicassa\MYpicassa\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\aurangzeb.lodhi\Desktop\MYpicassa\MYpicassa\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\aurangzeb.lodhi\Desktop\MYpicassa\MYpicassa\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\aurangzeb.lodhi\Desktop\MYpicassa\MYpicassa\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\aurangzeb.lodhi\Desktop\MYpicassa\MYpicassa\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\aurangzeb.lodhi\Desktop\MYpicassa\MYpicassa\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\aurangzeb.lodhi\Desktop\MYpicassa\MYpicassa\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\aurangzeb.lodhi\Desktop\MYpicassa\MYpicassa\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\aurangzeb.lodhi\Desktop\MYpicassa\MYpicassa\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\aurangzeb.lodhi\Desktop\MYpicassa\MYpicassa\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\aurangzeb.lodhi\Desktop\MYpicassa\MYpicassa\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\aurangzeb.lodhi\Desktop\MYpicassa\MYpicassa\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\aurangzeb.lodhi\Desktop\MYpicassa\MYpicassa\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\aurangzeb.lodhi\Desktop\MYpicassa\MYpicassa\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\aurangzeb.lodhi\Desktop\MYpicassa\MYpicassa\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\aurangzeb.lodhi\Desktop\MYpicassa\MYpicassa\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\aurangzeb.lodhi\Desktop\MYpicassa\MYpicassa\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\aurangzeb.lodhi\Desktop\MYpicassa\MYpicassa\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\aurangzeb.lodhi\Desktop\MYpicassa\MYpicassa\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\aurangzeb.lodhi\Desktop\MYpicassa\MYpicassa\obj\Debug\App.g.i.cs
+C:\Users\aurangzeb.lodhi\Desktop\MYpicassa\MYpicassa\obj\Debug\AlbumPage.g.i.cs
+C:\Users\aurangzeb.lodhi\Desktop\MYpicassa\MYpicassa\obj\Debug\AlbumsPage.g.i.cs
+C:\Users\aurangzeb.lodhi\Desktop\MYpicassa\MYpicassa\obj\Debug\ImagesPage.g.i.cs
+C:\Users\aurangzeb.lodhi\Desktop\MYpicassa\MYpicassa\obj\Debug\MainPage.g.i.cs
+C:\Users\aurangzeb.lodhi\Desktop\MYpicassa\MYpicassa\obj\Debug\MYpicassa.g.resources
+C:\Users\aurangzeb.lodhi\Desktop\MYpicassa\MYpicassa\obj\Debug\MYpicassa.AppResources.resources
+C:\Users\aurangzeb.lodhi\Desktop\MYpicassa\MYpicassa\obj\Debug\MYpicassa.AppResources.fi-FI.resources
+C:\Users\aurangzeb.lodhi\Desktop\MYpicassa\MYpicassa\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\aurangzeb.lodhi\Desktop\MYpicassa\MYpicassa\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\aurangzeb.lodhi\Desktop\MYpicassa\MYpicassa\obj\Debug\fi-FI\MYpicassa.resources.dll
+C:\Users\aurangzeb.lodhi\Desktop\MYpicassa\MYpicassa\obj\Debug\MYpicassa.dll
+C:\Users\aurangzeb.lodhi\Desktop\MYpicassa\MYpicassa\obj\Debug\MYpicassa.pdb
+C:\Users\aurangzeb.lodhi\Desktop\MYpicassa\MYpicassa\obj\Debug\XapCacheFile.xml
